@@ -1,5 +1,9 @@
 # vue-testing
 
+Demo of 2 ways of approache unit tests in Vue.js
+
+Comment out `FormElement.vue` template code to see the difference between the two specs.
+
 ## Project setup
 ```
 npm install
